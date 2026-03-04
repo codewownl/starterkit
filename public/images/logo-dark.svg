@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 336.31 170.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#Naamloos_verloop_31);
+      }
+
+      .cls-3 {
+        fill: url(#Naamloos_verloop_31-2);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="Naamloos_verloop_31" data-name="Naamloos verloop 31" x1="298.49" y1="76" x2="336.31" y2="76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e83b86"/>
+      <stop offset="1" stop-color="#eb5f40"/>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_31-2" data-name="Naamloos verloop 31" x1="0" y1="54.7" x2="34.41" y2="54.7" xlink:href="#Naamloos_verloop_31"/>
+  </defs>
+  <g>
+    <path class="cls-4" d="M89.02,101.13h12.67v58.56h24.72v-58.56h11.74v69.69H52.7v-69.69h12.36v58.56h23.95v-58.56Z"/>
+    <path class="cls-4" d="M155.43,170.82v-69.69h48.98v69.69h-48.98ZM192.82,112.56l-25.03.15v46.97h25.03v-47.13Z"/>
+    <path class="cls-4" d="M258.16,101.13h12.67v58.56h24.72v-58.56h11.74v69.69h-85.45v-69.69h12.36v58.56h23.95v-58.56Z"/>
+    <path class="cls-4" d="M324.57,141.9v-40.77h11.74v40.61l-11.74.15ZM324.57,170.82v-14.71h11.74v14.71h-11.74Z"/>
+  </g>
+  <g>
+    <path class="cls-4" d="M81.86,35.8h-19.33v36.28h27.33v8.59h-36.87V26.85h37.83v19.57h-8.95v-10.62Z"/>
+    <path class="cls-4" d="M134.82,80.67V26.85h37.83v53.82h-37.83ZM163.69,35.68l-19.33.12v36.28h19.33v-36.39Z"/>
+    <path class="cls-4" d="M245.53,26.85V0h8.95v80.67h-37.83V26.85h28.88ZM245.53,71.84v-36.39h-19.33v36.28l19.33.12Z"/>
+  </g>
+  <rect class="cls-4" x="298.49" y="49.65" width="31.96" height="9.22"/>
+  <rect class="cls-4" x="298.49" y="26.68" width="37.83" height="9.22"/>
+  <rect class="cls-2" x="298.49" y="71.39" width="37.83" height="9.22"/>
+  <path class="cls-3" d="M7.07,81.79l-7.07-7.07,20.27-20.27L.5,34.69l7.07-7.07,26.84,26.84-27.34,27.34Z"/>
+  <path class="cls-1" d="M336.31,81h-37.89v-10h37.89v10Z"/>
+</svg>
